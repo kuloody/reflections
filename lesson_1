@@ -1,0 +1,7 @@
+git log - -stat for statistics
+
+If I made a change in a file that affects another it would be much easier to see other files with the related change
+
+git diff to compare two versions and see what has been added that might have caused a bug 
+
+git log to see the commit available and compare the versions that I want I can use stat to have general idea about changes in each commit 
